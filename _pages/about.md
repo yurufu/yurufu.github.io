@@ -23,9 +23,11 @@ I earned my BA degree in political science and a minor in law from National Chun
 For further information, you can reach me via email: [yurufu1105@gmail.com](mailto:yurufu1105@gmail.com).
 
 
-<h2 id="research"> Research</h2>
+<h2 id="research">Research</h2>
 
-## THE STATE AGAINST CITIZENS: Blame-shifting Litigation and the Judicialization of Politics in Taiwan
+# Thesis
+## THE STATE AGAINST CITIZENS: 
+### Blame-shifting Litigation and the Judicialization of Politics in Taiwan
 * Best Dissertation Award of Taiwan Political Science Association (TPSA) (2017)
 * Presented at Annual Meeting of American Political Science Association (APSA) (2017)
 * Presented at Annual Meeting of Law and Society Association (LSA) (2017)​​
