@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Welcome!
 
 My research interests revolve around comparative judicial politics, political institutions, and contentious politics. More specifically, I am interested in how the state and the society interact with each other through judicial tactics. 
 
