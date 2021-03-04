@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## Welcome!
+
 My research interests revolve around comparative judicial politics, political institutions, and contentious politics. More specifically, I am interested in how the state and the society interact with each other through judicial tactics. 
 
 I defended my dissertation, in the title of "The State Against Citizens: Blame-shifting Litigation and the Judicialization of Politics in Taiwan," and received my master degree in political science from National Taiwan University in May 2017. Departing from existing literature paying considerable attention to how societal actors engage with the state through the power of law, the master dissertation builds a novel state-centered argument that administrative agencies in Taiwan tend to use the civil lawsuits to control and curb the momentum of social movements.
