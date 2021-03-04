@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Yuru Fu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
