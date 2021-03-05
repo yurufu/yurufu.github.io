@@ -25,7 +25,8 @@ For further information, you can reach me via email: [yurufu1105@gmail.com](mail
 
 # Thesis
 ## THE STATE AGAINST CITIZENS: 
-### Blame-shifting Litigation and the Judicialization of Politics in Taiwan
+Blame-shifting Litigation and the Judicialization of Politics in Taiwan
+
 * Best Dissertation Award of Taiwan Political Science Association (TPSA) (2017)
 * Presented at Annual Meeting of American Political Science Association (APSA) (2017)
 * Presented at Annual Meeting of Law and Society Association (LSA) (2017)​​
