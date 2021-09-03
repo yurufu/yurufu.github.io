@@ -18,7 +18,7 @@ Concerning quantitative methods training, I have taken a variety of courses in q
 
 I earned my BA degree in political science and a minor in law from National Chung Cheng University.
 
-For further information, you can reach me via email: [yurufu1105@gmail.com](mailto:yurufu1105@gmail.com).
+For further information, you can reach me via email: `yurufu125 [at] gmail <dot> com`
 
 
 <h2 id="research">Research</h2>
