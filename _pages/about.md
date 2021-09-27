@@ -38,9 +38,7 @@ A large body of literature on judicialization and legal mobilization has demonst
 
 In both cases, state-initiated plaintiff-driven litigation shaped strategies available to social movement organizers greatly, ultimately giving rise to different outcomes: Closed factories labor movement failed; anti-eviction movement won. Utilizing archives and government documents, I show that to the bureaucrats, what does matter was not the costs and benefits of the process of litigation but how the process could enable them to evade accountability. In the anti-eviction movements, the government even viewed “filing the lawsuits against citizens” as the “Standard Operating Procedure” for executive departments to cope with similar controversies in national land and property issues. This study has broad implications for judicial politics and state-society relationship.
 
-Keywords  |  Judicialization; Democratic Accountability; Judicial Independence; Governance; Legal Mobilization
+`Keywords` Judicialization; Democratic Accountability; Judicial Independence; Governance; Legal Mobilization
 
-LINK: <https://hdl.handle.net/11296/fn36n6>
- 
-DOI: [10.6342/NTU201703881](http://dx.doi.org/10.6342%2fNTU201703881)
+`DOI` [10.6342/NTU201703881](http://dx.doi.org/10.6342%2fNTU201703881) [`Library Link`](https://hdl.handle.net/11296/fn36n6) 
 
