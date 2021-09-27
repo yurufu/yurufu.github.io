@@ -30,7 +30,7 @@ For further information, you can reach me via email: `yurufu125 [at] gmail <dot>
 * Paper Presented at APSA 2017; LSA 2017.
 * APSA 2017 Travel Grant.
 
-**Master's Thesis**
+**Master's Thesis** [`DOI: 10.6342/NTU201703881`](http://dx.doi.org/10.6342%2fNTU201703881) [`Library Link`](https://hdl.handle.net/11296/fn36n6) 
 * Best Dissertation Award of Taiwan Political Science Association (TPSA) (2017)
 * Chiho Fellowship for Excellence Dissertation Proposal, Taiwan (2015)
 * Leichen Fellowship for Excellence Dissertation, Taiwan (2017)
@@ -41,5 +41,5 @@ In both cases, state-initiated plaintiff-driven litigation shaped strategies ava
 
 `Keywords` judicialization; democratic accountability; legal mobilization
 
-[`DOI: 10.6342/NTU201703881`](http://dx.doi.org/10.6342%2fNTU201703881) [`Library Link`](https://hdl.handle.net/11296/fn36n6) 
+
 
