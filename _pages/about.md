@@ -27,13 +27,13 @@ For further information, you can reach me via email: `yurufu125 [at] gmail <dot>
 ## THE STATE AGAINST CITIZENS: Blame-shifting Litigation and the Judicialization of Politics in Taiwan
 
 **Conference Paper**
-* Paper Presented at APSA 2017; LSA 2017.
+* Paper Presented at APSA 2017; [LSA](https://www.lawandsociety.org) 2017.
 * APSA 2017 Travel Grant.
 
 **Master's Thesis** [`DOI: 10.6342/NTU201703881`](http://dx.doi.org/10.6342%2fNTU201703881) [`Library Link`](https://hdl.handle.net/11296/fn36n6) 
-* Best Dissertation Award of Taiwan Political Science Association (TPSA) (2017)
-* Chiho Fellowship for Excellence Dissertation Proposal, Taiwan (2015)
-* Leichen Fellowship for Excellence Dissertation, Taiwan (2017)
+* **2017 Best Dissertation Award** of [Taiwan Political Science Association (TPSA)](https://www.tpsahome.org.tw/index.php)
+* [Leichen Fellowship for Excellence Dissertation](http://leichencenter.nccu.edu.tw/portfolio.php), Taiwan (2017)
+* [Chiho Fellowship for Excellence Dissertation Proposal](https://www.chilin.org.tw/index.php?lang=en), Taiwan (2015)
 
 A large body of literature on judicialization and legal mobilization has demonstrated that courts have played an increasing role in social change and policy-- making over the past decades. Little attention has been paid to the judicialization of policy issues, especially to how the state interacts with the society with judicial tactics. Departing from the literature of legal mobilization, which is mainly society-centered, I propose a novel state-centered story that administrative agencies in Taiwan tend to use the litigation to control and curb the momentum of social movements. I argue that the rationale for why a democratic government preemptively files the massive lawsuits against citizens with contract law lies in a quite self-interested "accountability-avoidance" mechanism. By doing so, bureaucrats could thus shift political accountability to which they have had to respond onto the judicial branch. To illustrate this argument, I draw on two case studies-- the closed factories labor movement and anti-eviction movement-- with up to 700 lawsuits totally in Taiwan from 1996 to 2015.
 
