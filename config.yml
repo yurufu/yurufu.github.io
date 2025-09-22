@@ -1,0 +1,145 @@
+baseURL: "https://fuyuru.com/"
+title: "Yuru Fu"
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 20
+
+taxonomies:
+  tag: tags
+
+menu:
+  main:
+    - name: About Me
+      url: /contact/
+      weight: 9
+    - name: Research
+      url: /Research/
+      weight: 2
+    #- name: Papers
+    #  url: /papers/
+    #  weight: 2
+    # - name: Courses
+    #   url: /courses/
+    #   weight: 3
+    # - name: Data
+    #   url: /data/
+    #   weight: 4
+    # - name: Books
+    #   url: /books/
+    #   weight: 5
+    # - name: Blog
+    #   url: https://your-blog.example.com
+    #   weight: 6
+    # - name: Tags
+    #   url: /tags/
+    #   weight: 7
+    # - name: Archive
+    #   url: /archive/
+    #   weight: 8
+
+params:
+  description: "Research, teaching, and data by Yuru Fu."
+  author: "Yuru Fu"
+  googleAnalyticsID: "G-1LH9NQ8GZR"
+  DateFormat: "January 2006"
+
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: ["books","courses","papers","data"]
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+
+  profileMode:
+    enabled: true
+    title: "Yuru Fu"
+    subtitle: "I am a PhD student at the polisci of Nationa Taiwan University working in contentious politics and democratization."     
+    imageUrl: "/profile.png"
+    imageWidth: 160
+    imageHeight: 160
+    buttons:
+      - name: About Me
+        url: /contact/
+      - name: Research
+        url: /Research/
+      #- name: Papers
+      #  url: /papers/
+      #- name: CV
+      #  url: /cv.pdf
+      #- name: Data
+      #  url: /data/
+      #- name: Books
+      #  url: /books/
+      #- name: Courses
+      #  url: /courses/
+      #- name: Tags
+      #  url: /tags/
+      #- name: Archive
+      #  url: /archive/
+
+  socialIcons:
+    #- name: CV
+    #  url: /cv.pdf
+    #- name: Email
+    #  url: "mailto:d14322004@ntu.edu.tw"
+    #- name: Google Scholar
+    #  url: "https://scholar.google.com/citations?user=4c4_1fAAAAAJ&hl=en"
+    - name: GitHub
+      url: "https://github.com/yurufu"
+    - name: ORCID
+      url: "https://orcid.org/0000-0002-9879-0340"
+    # - name: Substack
+    #   url: https://substack.example.com
+    # - name: YouTube
+    #   url: https://www.youtube.com/@yourchannel
+    - name: Twitter
+      url: https://x.com/fu_yuru
+    # - name: Bluesky
+    #   url: https://bsky.app/profile/yourname.bsky.social
+    # - name: Zoom
+    #   url: https://www.zoom.us/my/yourroom
+    # - name: Location
+    #   url: /location/
+    # - name: Office Hours
+    #   url: /officehours/
+
+  assets:
+    disableScrollBarStyle: true
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+
+  label:
+    text: "Yuru Fu"
+    icon: "/favicon.ico"
+    iconHeight: 18
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: "autumn"
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
