@@ -70,7 +70,7 @@ params:
   profileMode:
     enabled: true
     title: "Yuru Fu"
-    subtitle: "I am a PhD student at the polisci of Nationa Taiwan University working in contentious politics and democratization."     
+    subtitle: "I am a Political Science PhD student at National Taiwan University. My research focuses on judicial politics and contentious politics."     
     imageUrl: "/profile.png"
     imageWidth: 160
     imageHeight: 160
