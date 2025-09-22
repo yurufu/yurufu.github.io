@@ -17,7 +17,7 @@ menu:
       url: /contact/
       weight: 9
     - name: Research
-      url: /Research/
+      url: /research/
       weight: 2
     #- name: Papers
     #  url: /papers/
@@ -78,7 +78,7 @@ params:
       - name: About Me
         url: /contact/
       - name: Research
-        url: /Research/
+        url: /research/
       #- name: Papers
       #  url: /papers/
       #- name: CV
